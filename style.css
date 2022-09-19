@@ -9,3 +9,11 @@ img {
   margin-top: 100px;
   margin-top: 50px;
 }
+h3,
+p {
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-weight: 100;
+}
